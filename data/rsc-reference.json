@@ -1,0 +1,946 @@
+{
+  "1": {
+    "url": "https://periodic-table.rsc.org/element/1/hydrogen",
+    "melt": "−259.16°C, −434.49°F, 13.99 K",
+    "boil": "−252.879°C, −423.182°F, 20.271 K",
+    "density": "0.000082",
+    "configuration": "1s1",
+    "phase": "Gas"
+  },
+  "2": {
+    "url": "https://periodic-table.rsc.org/element/2/helium",
+    "melt": "Unknown",
+    "boil": "−268.928°C, −452.07°F, 4.222 K",
+    "density": "0.000164",
+    "configuration": "1s2",
+    "phase": "Gas"
+  },
+  "3": {
+    "url": "https://periodic-table.rsc.org/element/3/lithium",
+    "melt": "180.50°C, 356.90°F, 453.65 K",
+    "boil": "1342°C, 2448°F, 1615 K",
+    "density": "0.534",
+    "configuration": "[He] 2s1",
+    "phase": "Solid"
+  },
+  "4": {
+    "url": "https://periodic-table.rsc.org/element/4/beryllium",
+    "melt": "1287°C, 2349°F, 1560 K",
+    "boil": "2468°C, 4474°F, 2741 K",
+    "density": "1.85",
+    "configuration": "[He] 2s2",
+    "phase": "Solid"
+  },
+  "5": {
+    "url": "https://periodic-table.rsc.org/element/5/boron",
+    "melt": "2077°C, 3771°F, 2350 K",
+    "boil": "4000°C, 7232°F, 4273 K",
+    "density": "2.34",
+    "configuration": "[He] 2s22p1",
+    "phase": "Solid"
+  },
+  "6": {
+    "url": "https://periodic-table.rsc.org/element/6/carbon",
+    "melt": "Sublimes at 3825°C, 6917°F, 4098 K",
+    "boil": "Sublimes at 3825°C, 6917°F, 4098 K",
+    "density": "3.513 (diamond); 2.2 (graphite)",
+    "configuration": "[He] 2s22p2",
+    "phase": "Solid"
+  },
+  "7": {
+    "url": "https://periodic-table.rsc.org/element/7/nitrogen",
+    "melt": "−210.0°C, −346.0°F, 63.2 K",
+    "boil": "−195.795°C, −320.431°F, 77.355 K",
+    "density": "0.001145",
+    "configuration": "[He] 2s22p3",
+    "phase": "Gas"
+  },
+  "8": {
+    "url": "https://periodic-table.rsc.org/element/8/oxygen",
+    "melt": "−218.79°C, −361.82°F, 54.36 K",
+    "boil": "−182.962°C, −297.332°F, 90.188 K",
+    "density": "0.001308",
+    "configuration": "[He] 2s22p4",
+    "phase": "Gas"
+  },
+  "9": {
+    "url": "https://periodic-table.rsc.org/element/9/fluorine",
+    "melt": "−219.67°C, −363.41°F, 53.48 K",
+    "boil": "−188.11°C, −306.6°F, 85.04 K",
+    "density": "0.001553",
+    "configuration": "[He] 2s22p5",
+    "phase": "Gas"
+  },
+  "10": {
+    "url": "https://periodic-table.rsc.org/element/10/neon",
+    "melt": "−248.59°C, −415.46°F, 24.56 K",
+    "boil": "−246.046°C, −410.883°F, 27.104 K",
+    "density": "0.000825",
+    "configuration": "[He] 2s22p6",
+    "phase": "Gas"
+  },
+  "11": {
+    "url": "https://periodic-table.rsc.org/element/11/sodium",
+    "melt": "97.794°C, 208.029°F, 370.944 K",
+    "boil": "882.940°C, 1621.292°F, 1156.090 K",
+    "density": "0.97",
+    "configuration": "[Ne] 3s1",
+    "phase": "Solid"
+  },
+  "12": {
+    "url": "https://periodic-table.rsc.org/element/12/magnesium",
+    "melt": "650°C, 1202°F, 923 K",
+    "boil": "1090°C, 1994°F, 1363 K",
+    "density": "1.74",
+    "configuration": "[Ne] 3s2",
+    "phase": "Solid"
+  },
+  "13": {
+    "url": "https://periodic-table.rsc.org/element/13/aluminium",
+    "melt": "660.323°C, 1220.581°F, 933.473 K",
+    "boil": "2519°C, 4566°F, 2792 K",
+    "density": "2.70",
+    "configuration": "[Ne] 3s23p1",
+    "phase": "Solid"
+  },
+  "14": {
+    "url": "https://periodic-table.rsc.org/element/14/silicon",
+    "melt": "1414°C, 2577°F, 1687 K",
+    "boil": "3265°C, 5909°F, 3538 K",
+    "density": "2.3296",
+    "configuration": "[Ne] 3s23p2",
+    "phase": "Solid"
+  },
+  "15": {
+    "url": "https://periodic-table.rsc.org/element/15/phosphorus",
+    "melt": "44.15°C, 111.47°F, 317.3 K",
+    "boil": "280.5°C, 536.9°F, 553.7 K",
+    "density": "1.823 (white)",
+    "configuration": "[Ne] 3s23p3",
+    "phase": "Solid"
+  },
+  "16": {
+    "url": "https://periodic-table.rsc.org/element/16/sulfur",
+    "melt": "115.21°C, 239.38°F, 388.36 K",
+    "boil": "444.61°C, 832.3°F, 717.76 K",
+    "density": "2.07",
+    "configuration": "[Ne] 3s23p4",
+    "phase": "Solid"
+  },
+  "17": {
+    "url": "https://periodic-table.rsc.org/element/17/chlorine",
+    "melt": "−101.5°C, −150.7°F, 171.7 K",
+    "boil": "−34.04°C, −29.27°F, 239.11 K",
+    "density": "0.002898",
+    "configuration": "[Ne] 3s23p5",
+    "phase": "Gas"
+  },
+  "18": {
+    "url": "https://periodic-table.rsc.org/element/18/argon",
+    "melt": "−189.34°C, −308.81°F, 83.81 K",
+    "boil": "−185.848°C, −302.526°F, 87.302 K",
+    "density": "0.001633",
+    "configuration": "[Ne] 3s23p6",
+    "phase": "Gas"
+  },
+  "19": {
+    "url": "https://periodic-table.rsc.org/element/19/potassium",
+    "melt": "63.5°C, 146.3°F, 336.7 K",
+    "boil": "759°C, 1398°F, 1032 K",
+    "density": "0.89",
+    "configuration": "[Ar] 4s1",
+    "phase": "Solid"
+  },
+  "20": {
+    "url": "https://periodic-table.rsc.org/element/20/calcium",
+    "melt": "842°C, 1548°F, 1115 K",
+    "boil": "1484°C, 2703°F, 1757 K",
+    "density": "1.54",
+    "configuration": "[Ar] 4s2",
+    "phase": "Solid"
+  },
+  "21": {
+    "url": "https://periodic-table.rsc.org/element/21/scandium",
+    "melt": "1541°C, 2806°F, 1814 K",
+    "boil": "2836°C, 5137°F, 3109 K",
+    "density": "2.99",
+    "configuration": "[Ar] 3d14s2",
+    "phase": "Solid"
+  },
+  "22": {
+    "url": "https://periodic-table.rsc.org/element/22/titanium",
+    "melt": "1670°C, 3038°F, 1943 K",
+    "boil": "3287°C, 5949°F, 3560 K",
+    "density": "4.506",
+    "configuration": "[Ar] 3d24s2",
+    "phase": "Solid"
+  },
+  "23": {
+    "url": "https://periodic-table.rsc.org/element/23/vanadium",
+    "melt": "1910°C, 3470°F, 2183 K",
+    "boil": "3407°C, 6165°F, 3680 K",
+    "density": "6.0",
+    "configuration": "[Ar] 3d34s2",
+    "phase": "Solid"
+  },
+  "24": {
+    "url": "https://periodic-table.rsc.org/element/24/chromium",
+    "melt": "1907°C, 3465°F, 2180 K",
+    "boil": "2671°C, 4840°F, 2944 K",
+    "density": "7.15",
+    "configuration": "[Ar] 3d54s1",
+    "phase": "Solid"
+  },
+  "25": {
+    "url": "https://periodic-table.rsc.org/element/25/manganese",
+    "melt": "1246°C, 2275°F, 1519 K",
+    "boil": "2061°C, 3742°F, 2334 K",
+    "density": "7.3",
+    "configuration": "[Ar] 3d54s2",
+    "phase": "Solid"
+  },
+  "26": {
+    "url": "https://periodic-table.rsc.org/element/26/iron",
+    "melt": "1538°C, 2800°F, 1811 K",
+    "boil": "2861°C, 5182°F, 3134 K",
+    "density": "7.87",
+    "configuration": "[Ar] 3d64s2",
+    "phase": "Solid"
+  },
+  "27": {
+    "url": "https://periodic-table.rsc.org/element/27/cobalt",
+    "melt": "1495°C, 2723°F, 1768 K",
+    "boil": "2927°C, 5301°F, 3200 K",
+    "density": "8.86",
+    "configuration": "[Ar] 3d74s2",
+    "phase": "Solid"
+  },
+  "28": {
+    "url": "https://periodic-table.rsc.org/element/28/nickel",
+    "melt": "1455°C, 2651°F, 1728 K",
+    "boil": "2913°C, 5275°F, 3186 K",
+    "density": "8.90",
+    "configuration": "[Ar] 3d84s2",
+    "phase": "Solid"
+  },
+  "29": {
+    "url": "https://periodic-table.rsc.org/element/29/copper",
+    "melt": "1084.62°C, 1984.32°F, 1357.77 K",
+    "boil": "2560°C, 4640°F, 2833 K",
+    "density": "8.96",
+    "configuration": "[Ar] 3d104s1",
+    "phase": "Solid"
+  },
+  "30": {
+    "url": "https://periodic-table.rsc.org/element/30/zinc",
+    "melt": "419.527°C, 787.149°F, 692.677 K",
+    "boil": "907°C, 1665°F, 1180 K",
+    "density": "7.134",
+    "configuration": "[Ar] 3d104s2",
+    "phase": "Solid"
+  },
+  "31": {
+    "url": "https://periodic-table.rsc.org/element/31/gallium",
+    "melt": "29.7646°C, 85.5763°F, 302.9146 K",
+    "boil": "2229°C, 4044°F, 2502 K",
+    "density": "5.91",
+    "configuration": "[Ar] 3d104s24p1",
+    "phase": "Solid"
+  },
+  "32": {
+    "url": "https://periodic-table.rsc.org/element/32/germanium",
+    "melt": "938.25°C, 1720.85°F, 1211.4 K",
+    "boil": "2833°C, 5131°F, 3106 K",
+    "density": "5.3234",
+    "configuration": "[Ar] 3d104s24p2",
+    "phase": "Solid"
+  },
+  "33": {
+    "url": "https://periodic-table.rsc.org/element/33/arsenic",
+    "melt": "Sublimes at 616°C, 1141°F, 889 K",
+    "boil": "Sublimes at 616°C, 1141°F, 889 K",
+    "density": "5.75",
+    "configuration": "[Ar] 3d104s24p3",
+    "phase": "Solid"
+  },
+  "34": {
+    "url": "https://periodic-table.rsc.org/element/34/selenium",
+    "melt": "220.8°C, 429.4°F, 494 K",
+    "boil": "685°C, 1265°F, 958 K",
+    "density": "4.809",
+    "configuration": "[Ar] 3d104s24p4",
+    "phase": "Solid"
+  },
+  "35": {
+    "url": "https://periodic-table.rsc.org/element/35/bromine",
+    "melt": "−7.2°C, 19°F, 266 K",
+    "boil": "58.8°C, 137.8°F, 332 K",
+    "density": "3.1028",
+    "configuration": "[Ar] 3d104s24p5",
+    "phase": "Liquid"
+  },
+  "36": {
+    "url": "https://periodic-table.rsc.org/element/36/krypton",
+    "melt": "−157.37°C, −251.27°F, 115.78 K",
+    "boil": "−153.415°C, −244.147°F, 119.735 K",
+    "density": "0.003425",
+    "configuration": "[Ar] 3d104s24p6",
+    "phase": "Gas"
+  },
+  "37": {
+    "url": "https://periodic-table.rsc.org/element/37/rubidium",
+    "melt": "39.30°C, 102.74°F, 312.45 K",
+    "boil": "688°C, 1270°F, 961 K",
+    "density": "1.53",
+    "configuration": "[Kr] 5s1",
+    "phase": "Solid"
+  },
+  "38": {
+    "url": "https://periodic-table.rsc.org/element/38/strontium",
+    "melt": "777°C, 1431°F, 1050 K",
+    "boil": "1377°C, 2511°F, 1650 K",
+    "density": "2.64",
+    "configuration": "[Kr] 5s2",
+    "phase": "Solid"
+  },
+  "39": {
+    "url": "https://periodic-table.rsc.org/element/39/yttrium",
+    "melt": "1522°C, 2772°F, 1795 K",
+    "boil": "3345°C, 6053°F, 3618 K",
+    "density": "4.47",
+    "configuration": "[Kr] 4d15s2",
+    "phase": "Solid"
+  },
+  "40": {
+    "url": "https://periodic-table.rsc.org/element/40/zirconium",
+    "melt": "1854°C, 3369°F, 2127 K",
+    "boil": "4406°C, 7963°F, 4679 K",
+    "density": "6.52",
+    "configuration": "[Kr] 4d25s2",
+    "phase": "Solid"
+  },
+  "41": {
+    "url": "https://periodic-table.rsc.org/element/41/niobium",
+    "melt": "2477°C, 4491°F, 2750 K",
+    "boil": "4741°C, 8566°F, 5014 K",
+    "density": "8.57",
+    "configuration": "[Kr] 4d45s1",
+    "phase": "Solid"
+  },
+  "42": {
+    "url": "https://periodic-table.rsc.org/element/42/molybdenum",
+    "melt": "2622°C, 4752°F, 2895 K",
+    "boil": "4639°C, 8382°F, 4912 K",
+    "density": "10.2",
+    "configuration": "[Kr] 4d55s1",
+    "phase": "Solid"
+  },
+  "43": {
+    "url": "https://periodic-table.rsc.org/element/43/technetium",
+    "melt": "2157°C, 3915°F, 2430 K",
+    "boil": "4262°C, 7704°F, 4535 K",
+    "density": "11",
+    "configuration": "[Kr] 4d55s2",
+    "phase": "Solid"
+  },
+  "44": {
+    "url": "https://periodic-table.rsc.org/element/44/ruthenium",
+    "melt": "2333°C, 4231°F, 2606 K",
+    "boil": "4147°C, 7497°F, 4420 K",
+    "density": "12.1",
+    "configuration": "[Kr] 4d75s1",
+    "phase": "Solid"
+  },
+  "45": {
+    "url": "https://periodic-table.rsc.org/element/45/rhodium",
+    "melt": "1963°C, 3565°F, 2236 K",
+    "boil": "3695°C, 6683°F, 3968 K",
+    "density": "12.4",
+    "configuration": "[Kr] 4d85s1",
+    "phase": "Solid"
+  },
+  "46": {
+    "url": "https://periodic-table.rsc.org/element/46/palladium",
+    "melt": "1554.8°C, 2830.6°F, 1828 K",
+    "boil": "2963°C, 5365°F, 3236 K",
+    "density": "12.0",
+    "configuration": "[Kr] 4d10",
+    "phase": "Solid"
+  },
+  "47": {
+    "url": "https://periodic-table.rsc.org/element/47/silver",
+    "melt": "961.78°C, 1763.2°F, 1234.93 K",
+    "boil": "2162°C, 3924°F, 2435 K",
+    "density": "10.5",
+    "configuration": "[Kr] 4d105s1",
+    "phase": "Solid"
+  },
+  "48": {
+    "url": "https://periodic-table.rsc.org/element/48/cadmium",
+    "melt": "321.069°C, 609.924°F, 594.219 K",
+    "boil": "767°C, 1413°F, 1040 K",
+    "density": "8.69",
+    "configuration": "[Kr] 4d105s2",
+    "phase": "Solid"
+  },
+  "49": {
+    "url": "https://periodic-table.rsc.org/element/49/indium",
+    "melt": "156.60°C, 313.88°F, 429.75 K",
+    "boil": "2027°C, 3681°F, 2300 K",
+    "density": "7.31",
+    "configuration": "[Kr] 4d105s25p1",
+    "phase": "Solid"
+  },
+  "50": {
+    "url": "https://periodic-table.rsc.org/element/50/tin",
+    "melt": "231.928°C, 449.47°F, 505.078 K",
+    "boil": "2586°C, 4687°F, 2859 K",
+    "density": "7.287",
+    "configuration": "[Kr] 4d105s25p2",
+    "phase": "Solid"
+  },
+  "51": {
+    "url": "https://periodic-table.rsc.org/element/51/antimony",
+    "melt": "630.628°C, 1167.13°F, 903.778 K",
+    "boil": "1587°C, 2889°F, 1860 K",
+    "density": "6.68",
+    "configuration": "[Kr] 4d105s25p3",
+    "phase": "Solid"
+  },
+  "52": {
+    "url": "https://periodic-table.rsc.org/element/52/tellurium",
+    "melt": "449.51°C, 841.12°F, 722.66 K",
+    "boil": "988°C, 1810°F, 1261 K",
+    "density": "6.232",
+    "configuration": "[Kr] 4d105s25p4",
+    "phase": "Solid"
+  },
+  "53": {
+    "url": "https://periodic-table.rsc.org/element/53/iodine",
+    "melt": "113.7°C, 236.7°F, 386.9 K",
+    "boil": "184.4°C, 363.9°F, 457.6 K",
+    "density": "4.933",
+    "configuration": "[Kr] 4d105s25p5",
+    "phase": "Solid"
+  },
+  "54": {
+    "url": "https://periodic-table.rsc.org/element/54/xenon",
+    "melt": "−111.75°C, −169.15°F, 161.4 K",
+    "boil": "−108.099°C, −162.578°F, 165.051 K",
+    "density": "0.005366",
+    "configuration": "[Kr] 4d105s25p6",
+    "phase": "Gas"
+  },
+  "55": {
+    "url": "https://periodic-table.rsc.org/element/55/cesium",
+    "melt": "28.5°C, 83.3°F, 301.7 K",
+    "boil": "671°C, 1240°F, 944 K",
+    "density": "1.873",
+    "configuration": "[Xe] 6s1",
+    "phase": "Solid"
+  },
+  "56": {
+    "url": "https://periodic-table.rsc.org/element/56/barium",
+    "melt": "727°C, 1341°F, 1000 K",
+    "boil": "1845°C, 3353°F, 2118 K",
+    "density": "3.62",
+    "configuration": "[Xe] 6s2",
+    "phase": "Solid"
+  },
+  "57": {
+    "url": "https://periodic-table.rsc.org/element/57/lanthanum",
+    "melt": "920°C, 1688°F, 1193 K",
+    "boil": "3464°C, 6267°F, 3737 K",
+    "density": "6.15",
+    "configuration": "[Xe] 5d16s2",
+    "phase": "Solid"
+  },
+  "58": {
+    "url": "https://periodic-table.rsc.org/element/58/cerium",
+    "melt": "799°C, 1470°F, 1072 K",
+    "boil": "3443°C, 6229°F, 3716 K",
+    "density": "6.77",
+    "configuration": "[Xe] 4f15d16s2",
+    "phase": "Solid"
+  },
+  "59": {
+    "url": "https://periodic-table.rsc.org/element/59/praseodymium",
+    "melt": "931°C, 1708°F, 1204 K",
+    "boil": "3520°C, 6368°F, 3793 K",
+    "density": "6.77",
+    "configuration": "[Xe] 4f36s2",
+    "phase": "Solid"
+  },
+  "60": {
+    "url": "https://periodic-table.rsc.org/element/60/neodymium",
+    "melt": "1016°C, 1861°F, 1289 K",
+    "boil": "3074°C, 5565°F, 3347 K",
+    "density": "7.01",
+    "configuration": "[Xe] 4f46s2",
+    "phase": "Solid"
+  },
+  "61": {
+    "url": "https://periodic-table.rsc.org/element/61/promethium",
+    "melt": "1042°C, 1908°F, 1315 K",
+    "boil": "3000°C, 5432°F, 3273 K",
+    "density": "7.26",
+    "configuration": "[Xe] 4f56s2",
+    "phase": "Solid"
+  },
+  "62": {
+    "url": "https://periodic-table.rsc.org/element/62/samarium",
+    "melt": "1072°C, 1962°F, 1345 K",
+    "boil": "1794°C, 3261°F, 2067 K",
+    "density": "7.52",
+    "configuration": "[Xe] 4f66s2",
+    "phase": "Solid"
+  },
+  "63": {
+    "url": "https://periodic-table.rsc.org/element/63/europium",
+    "melt": "822°C, 1512°F, 1095 K",
+    "boil": "1529°C, 2784°F, 1802 K",
+    "density": "5.24",
+    "configuration": "[Xe] 4f76s2",
+    "phase": "Solid"
+  },
+  "64": {
+    "url": "https://periodic-table.rsc.org/element/64/gadolinium",
+    "melt": "1313°C, 2395°F, 1586 K",
+    "boil": "3273°C, 5923°F, 3546 K",
+    "density": "7.90",
+    "configuration": "[Xe] 4f75d16s2",
+    "phase": "Solid"
+  },
+  "65": {
+    "url": "https://periodic-table.rsc.org/element/65/terbium",
+    "melt": "1359°C, 2478°F, 1632 K",
+    "boil": "3230°C, 5846°F, 3503 K",
+    "density": "8.23",
+    "configuration": "[Xe] 4f96s2",
+    "phase": "Solid"
+  },
+  "66": {
+    "url": "https://periodic-table.rsc.org/element/66/dysprosium",
+    "melt": "1412°C, 2574°F, 1685 K",
+    "boil": "2567°C, 4653°F, 2840 K",
+    "density": "8.55",
+    "configuration": "[Xe] 4f106s2",
+    "phase": "Solid"
+  },
+  "67": {
+    "url": "https://periodic-table.rsc.org/element/67/holmium",
+    "melt": "1472°C, 2682°F, 1745 K",
+    "boil": "2700°C, 4892°F, 2973 K",
+    "density": "8.80",
+    "configuration": "[Xe] 4f116s2",
+    "phase": "Solid"
+  },
+  "68": {
+    "url": "https://periodic-table.rsc.org/element/68/erbium",
+    "melt": "1529°C, 2784°F, 1802 K",
+    "boil": "2868°C, 5194°F, 3141 K",
+    "density": "9.07",
+    "configuration": "[Xe] 4f126s2",
+    "phase": "Solid"
+  },
+  "69": {
+    "url": "https://periodic-table.rsc.org/element/69/thulium",
+    "melt": "1545°C, 2813°F, 1818 K",
+    "boil": "1950°C, 3542°F, 2223 K",
+    "density": "9.32",
+    "configuration": "[Xe] 4f136s2",
+    "phase": "Solid"
+  },
+  "70": {
+    "url": "https://periodic-table.rsc.org/element/70/ytterbium",
+    "melt": "824°C, 1515°F, 1097 K",
+    "boil": "1196°C, 2185°F, 1469 K",
+    "density": "6.90",
+    "configuration": "[Xe] 4f146s2",
+    "phase": "Solid"
+  },
+  "71": {
+    "url": "https://periodic-table.rsc.org/element/71/lutetium",
+    "melt": "1663°C, 3025°F, 1936 K",
+    "boil": "3402°C, 6156°F, 3675 K",
+    "density": "9.84",
+    "configuration": "[Xe] 4f145d16s2",
+    "phase": "Solid"
+  },
+  "72": {
+    "url": "https://periodic-table.rsc.org/element/72/hafnium",
+    "melt": "2233°C, 4051°F, 2506 K",
+    "boil": "4600°C, 8312°F, 4873 K",
+    "density": "13.3",
+    "configuration": "[Xe] 4f145d26s2",
+    "phase": "Solid"
+  },
+  "73": {
+    "url": "https://periodic-table.rsc.org/element/73/tantalum",
+    "melt": "3017°C, 5463°F, 3290 K",
+    "boil": "5455°C, 9851°F, 5728 K",
+    "density": "16.4",
+    "configuration": "[Xe] 4f145d36s2",
+    "phase": "Solid"
+  },
+  "74": {
+    "url": "https://periodic-table.rsc.org/element/74/tungsten",
+    "melt": "3414°C, 6177°F, 3687 K",
+    "boil": "5555°C, 10031°F, 5828 K",
+    "density": "19.3",
+    "configuration": "[Xe] 4f145d46s2",
+    "phase": "Solid"
+  },
+  "75": {
+    "url": "https://periodic-table.rsc.org/element/75/rhenium",
+    "melt": "3185°C, 5765°F, 3458 K",
+    "boil": "5590°C, 10094°F, 5863 K",
+    "density": "20.8",
+    "configuration": "[Xe] 4f145d56s2",
+    "phase": "Solid"
+  },
+  "76": {
+    "url": "https://periodic-table.rsc.org/element/76/osmium",
+    "melt": "3033°C, 5491°F, 3306 K",
+    "boil": "5008°C, 9046°F, 5281 K",
+    "density": "22.5872",
+    "configuration": "[Xe] 4f145d66s2",
+    "phase": "Solid"
+  },
+  "77": {
+    "url": "https://periodic-table.rsc.org/element/77/iridium",
+    "melt": "2446°C, 4435°F, 2719 K",
+    "boil": "4428°C, 8002°F, 4701 K",
+    "density": "22.5622",
+    "configuration": "[Xe] 4f145d76s2",
+    "phase": "Solid"
+  },
+  "78": {
+    "url": "https://periodic-table.rsc.org/element/78/platinum",
+    "melt": "1768.2°C, 3214.8°F, 2041.4 K",
+    "boil": "3825°C, 6917°F, 4098 K",
+    "density": "21.5",
+    "configuration": "[Xe] 4f145d96s1",
+    "phase": "Solid"
+  },
+  "79": {
+    "url": "https://periodic-table.rsc.org/element/79/gold",
+    "melt": "1064.18°C, 1947.52°F, 1337.33 K",
+    "boil": "2836°C, 5137°F, 3109 K",
+    "density": "19.3",
+    "configuration": "[Xe] 4f145d106s1",
+    "phase": "Solid"
+  },
+  "80": {
+    "url": "https://periodic-table.rsc.org/element/80/mercury",
+    "melt": "−38.829°C, −37.892°F, 234.321 K",
+    "boil": "356.619°C, 673.914°F, 629.769 K",
+    "density": "13.5336",
+    "configuration": "[Xe] 4f145d106s2",
+    "phase": "Liquid"
+  },
+  "81": {
+    "url": "https://periodic-table.rsc.org/element/81/thallium",
+    "melt": "304°C, 579°F, 577 K",
+    "boil": "1473°C, 2683°F, 1746 K",
+    "density": "11.8",
+    "configuration": "[Xe] 4f145d106s26p1",
+    "phase": "Solid"
+  },
+  "82": {
+    "url": "https://periodic-table.rsc.org/element/82/lead",
+    "melt": "327.462°C, 621.432°F, 600.612 K",
+    "boil": "1749°C, 3180°F, 2022 K",
+    "density": "11.3",
+    "configuration": "[Xe] 4f145d106s26p2",
+    "phase": "Solid"
+  },
+  "83": {
+    "url": "https://periodic-table.rsc.org/element/83/bismuth",
+    "melt": "271.406°C, 520.531°F, 544.556 K",
+    "boil": "1564°C, 2847°F, 1837 K",
+    "density": "9.79",
+    "configuration": "[Xe] 4f145d106s26p3",
+    "phase": "Solid"
+  },
+  "84": {
+    "url": "https://periodic-table.rsc.org/element/84/polonium",
+    "melt": "254°C, 489°F, 527 K",
+    "boil": "962°C, 1764°F, 1235 K",
+    "density": "9.20",
+    "configuration": "[Xe] 4f145d106s26p4",
+    "phase": "Solid"
+  },
+  "85": {
+    "url": "https://periodic-table.rsc.org/element/85/astatine",
+    "melt": "300°C, 572°F, 573 K",
+    "boil": "350°C, 662°F, 623 K",
+    "density": "Unknown",
+    "configuration": "[Xe] 4f145d106s26p5",
+    "phase": "Solid"
+  },
+  "86": {
+    "url": "https://periodic-table.rsc.org/element/86/radon",
+    "melt": "−71°C, −96°F, 202 K",
+    "boil": "−61.7°C, −79.1°F, 211.5 K",
+    "density": "0.009074",
+    "configuration": "[Xe] 4f145d106s26p6",
+    "phase": "Gas"
+  },
+  "87": {
+    "url": "https://periodic-table.rsc.org/element/87/francium",
+    "melt": "21°C, 70°F, 294 K",
+    "boil": "650°C, 1202°F, 923 K",
+    "density": "Unknown",
+    "configuration": "[Rn] 7s1",
+    "phase": "Solid"
+  },
+  "88": {
+    "url": "https://periodic-table.rsc.org/element/88/radium",
+    "melt": "696°C, 1285°F, 969 K",
+    "boil": "1500°C, 2732°F, 1773 K",
+    "density": "5",
+    "configuration": "[Rn] 7s2",
+    "phase": "Solid"
+  },
+  "89": {
+    "url": "https://periodic-table.rsc.org/element/89/actinium",
+    "melt": "1050°C, 1922°F, 1323 K",
+    "boil": "3200°C, 5792°F, 3473 K",
+    "density": "10",
+    "configuration": "[Rn] 6d17s2",
+    "phase": "Solid"
+  },
+  "90": {
+    "url": "https://periodic-table.rsc.org/element/90/thorium",
+    "melt": "1750°C, 3182°F, 2023 K",
+    "boil": "4785°C, 8645°F, 5058 K",
+    "density": "11.7",
+    "configuration": "[Rn] 6d27s2",
+    "phase": "Solid"
+  },
+  "91": {
+    "url": "https://periodic-table.rsc.org/element/91/protactinium",
+    "melt": "1572°C, 2862°F, 1845 K",
+    "boil": "4000°C, 7232°F, 4273 K",
+    "density": "15.4",
+    "configuration": "[Rn] 5f26d17s2",
+    "phase": "Solid"
+  },
+  "92": {
+    "url": "https://periodic-table.rsc.org/element/92/uranium",
+    "melt": "1135°C, 2075°F, 1408 K",
+    "boil": "4131°C, 7468°F, 4404 K",
+    "density": "19.1",
+    "configuration": "[Rn] 5f36d17s2",
+    "phase": "Solid"
+  },
+  "93": {
+    "url": "https://periodic-table.rsc.org/element/93/neptunium",
+    "melt": "644°C, 1191°F, 917 K",
+    "boil": "3902°C, 7056°F, 4175 K",
+    "density": "20.2",
+    "configuration": "[Rn] 5f46d17s2",
+    "phase": "Solid"
+  },
+  "94": {
+    "url": "https://periodic-table.rsc.org/element/94/plutonium",
+    "melt": "640°C, 1184°F, 913 K",
+    "boil": "3228°C, 5842°F, 3501 K",
+    "density": "19.7",
+    "configuration": "[Rn] 5f67s2",
+    "phase": "Solid"
+  },
+  "95": {
+    "url": "https://periodic-table.rsc.org/element/95/americium",
+    "melt": "1176°C, 2149°F, 1449 K",
+    "boil": "2011°C, 3652°F, 2284 K",
+    "density": "12",
+    "configuration": "[Rn] 5f77s2",
+    "phase": "Solid"
+  },
+  "96": {
+    "url": "https://periodic-table.rsc.org/element/96/curium",
+    "melt": "1345°C, 2453°F, 1618 K",
+    "boil": "Unknown",
+    "density": "13.51",
+    "configuration": "[Rn] 5f76d17s2",
+    "phase": "Solid"
+  },
+  "97": {
+    "url": "https://periodic-table.rsc.org/element/97/berkelium",
+    "melt": "986°C, 1807°F, 1259 K",
+    "boil": "Unknown",
+    "density": "14.78",
+    "configuration": "[Rn] 5f97s2",
+    "phase": "Solid"
+  },
+  "98": {
+    "url": "https://periodic-table.rsc.org/element/98/californium",
+    "melt": "900°C, 1652°F, 1173 K",
+    "boil": "Unknown",
+    "density": "15.1",
+    "configuration": "[Rn] 5f107s2",
+    "phase": "Solid"
+  },
+  "99": {
+    "url": "https://periodic-table.rsc.org/element/99/einsteinium",
+    "melt": "860°C, 1580°F, 1133 K",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f117s2",
+    "phase": "Solid"
+  },
+  "100": {
+    "url": "https://periodic-table.rsc.org/element/100/fermium",
+    "melt": "1527°C, 2781°F, 1800 K",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f127s2",
+    "phase": "Solid"
+  },
+  "101": {
+    "url": "https://periodic-table.rsc.org/element/101/mendelevium",
+    "melt": "827°C, 1521°F, 1100 K",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f137s2",
+    "phase": "Solid"
+  },
+  "102": {
+    "url": "https://periodic-table.rsc.org/element/102/nobelium",
+    "melt": "827°C, 1521°F, 1100 K",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f147s2",
+    "phase": "Solid"
+  },
+  "103": {
+    "url": "https://periodic-table.rsc.org/element/103/lawrencium",
+    "melt": "1627°C, 2961°F, 1900 K",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f147s27p1",
+    "phase": "Solid"
+  },
+  "104": {
+    "url": "https://periodic-table.rsc.org/element/104/rutherfordium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d27s2",
+    "phase": "Solid"
+  },
+  "105": {
+    "url": "https://periodic-table.rsc.org/element/105/dubnium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d37s2",
+    "phase": "Solid"
+  },
+  "106": {
+    "url": "https://periodic-table.rsc.org/element/106/seaborgium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d47s2",
+    "phase": "Solid"
+  },
+  "107": {
+    "url": "https://periodic-table.rsc.org/element/107/bohrium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d57s2",
+    "phase": "Solid"
+  },
+  "108": {
+    "url": "https://periodic-table.rsc.org/element/108/hassium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d67s2",
+    "phase": "Solid"
+  },
+  "109": {
+    "url": "https://periodic-table.rsc.org/element/109/meitnerium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d77s2",
+    "phase": "Solid"
+  },
+  "110": {
+    "url": "https://periodic-table.rsc.org/element/110/darmstadtium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d97s1",
+    "phase": "Solid"
+  },
+  "111": {
+    "url": "https://periodic-table.rsc.org/element/111/roentgenium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s1",
+    "phase": "Solid"
+  },
+  "112": {
+    "url": "https://periodic-table.rsc.org/element/112/copernicium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s2",
+    "phase": "Solid"
+  },
+  "113": {
+    "url": "https://periodic-table.rsc.org/element/113/nihonium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p1",
+    "phase": "Solid"
+  },
+  "114": {
+    "url": "https://periodic-table.rsc.org/element/114/flerovium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p2",
+    "phase": "Solid"
+  },
+  "115": {
+    "url": "https://periodic-table.rsc.org/element/115/moscovium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p3",
+    "phase": "Solid"
+  },
+  "116": {
+    "url": "https://periodic-table.rsc.org/element/116/livermorium",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p4",
+    "phase": "Solid"
+  },
+  "117": {
+    "url": "https://periodic-table.rsc.org/element/117/tennessine",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p5",
+    "phase": "Solid"
+  },
+  "118": {
+    "url": "https://periodic-table.rsc.org/element/118/oganesson",
+    "melt": "Unknown",
+    "boil": "Unknown",
+    "density": "Unknown",
+    "configuration": "[Rn] 5f146d107s27p6",
+    "phase": "Solid"
+  }
+}
