@@ -4,7 +4,17 @@
 
 ## 開発
 
-Node.js 22.13以降。`npm install`、`npm run dev`。公開用のビルドは `npm run build`。
+Next.js 16 / React 19 / TypeScript / Tailwind CSS 4 で構成しています。
+
+Node.js 22以降で次を実行します。
+
+```bash
+npm ci
+npm run dev
+npm run build
+```
+
+VercelではFramework Presetを `Next.js`、Root Directoryをリポジトリ直下に設定します。ビルドコマンドと出力先はVercelの自動設定を使用し、環境変数は不要です。
 
 ## データ
 
