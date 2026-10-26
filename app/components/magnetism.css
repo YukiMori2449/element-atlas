@@ -1,0 +1,158 @@
+.desktop-detail {
+  max-height: calc(100dvh - 40px);
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #bbcbb2 transparent;
+}
+
+.magnetism {
+  margin-top: 24px;
+  padding-top: 21px;
+  border-top: 1px solid #cad8c2;
+  overflow-wrap: anywhere;
+}
+
+.magnetism-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 9px;
+}
+
+.magnetism h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.magnetic-badge {
+  font-size: .875rem;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 1px solid #cbd5c4;
+}
+
+.magnetic-ferromagnetic { background: #f2dfdf; color: #87364a; }
+.magnetic-antiferromagnetic { background: #e9e4f2; color: #62487e; }
+.magnetic-paramagnetic { background: #dcece5; color: #35634e; }
+.magnetic-diamagnetic { background: #e4eef3; color: #345568; }
+.magnetic-unknown { background: #e9eae7; color: #5d6656; }
+
+.magnetism .magnetic-facts { margin-top: 14px; }
+.magnetic-facts dt { font-size: .75rem; }
+.magnetic-facts dd { font-size: .8125rem; font-weight: 500; }
+.magnetic-facts small { font-size: .6875rem; font-weight: normal; }
+.magnetic-facts > .magnetic-form { display: block; }
+.magnetic-form dd { margin-top: 6px; text-align: left; }
+
+.magnetism .magnetic-evidence,
+.magnetism .magnetic-behavior {
+  font-size: .8125rem;
+  color: #4f6248;
+  line-height: 1.8;
+  margin: 10px 0;
+}
+
+.magnetism h4 {
+  font-size: .875rem;
+  font-weight: 600;
+  margin: 21px 0 12px;
+}
+
+.magnetic-transitions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.magnetic-transitions > li {
+  display: grid;
+  grid-template-columns: 19px minmax(0, 1fr);
+  gap: 9px;
+  padding: 11px 0;
+  border-top: 1px solid #d9e1d2;
+}
+
+.transition-step {
+  width: 19px;
+  height: 19px;
+  border-radius: 50%;
+  background: #d4e0cb;
+  color: #4e6b40;
+  display: grid;
+  place-items: center;
+  font: 11px Arial, sans-serif;
+  margin-top: 1px;
+}
+
+.magnetic-transitions strong {
+  display: block;
+  font-size: .75rem;
+  font-weight: 600;
+}
+
+.transition-temperature {
+  display: block;
+  font: 500 .8125rem/1.7 Arial, sans-serif;
+  color: #334e2d;
+  margin-top: 4px;
+}
+
+.transition-phase {
+  display: block;
+  font-size: .75rem;
+  color: #6b4b7a;
+  line-height: 1.6;
+  margin-top: 4px;
+}
+
+.magnetic-transitions p {
+  font-size: .75rem;
+  color: #576b4f;
+  line-height: 1.7;
+  margin: 5px 0;
+}
+
+.transition-citations { display: flex; flex-wrap: wrap; gap: 10px; }
+.transition-citations a { font-size: .6875rem; text-underline-offset: 3px; }
+
+.magnetism p.magnetic-unknown {
+  font-size: .75rem;
+  line-height: 1.8;
+  padding: 10px 12px;
+  border-radius: 6px;
+}
+.magnetism p.magnetic-unknown strong { font-size: .875rem; display: block; }
+.magnetism p.magnetic-unknown span { display: block; margin-top: 4px; }
+
+.magnetic-references,
+.magnetic-glossary {
+  border-top: 1px solid #d9e1d2;
+  padding: 12px 0;
+  font-size: .75rem;
+  line-height: 1.8;
+  color: #53674a;
+}
+
+.magnetism summary { cursor: pointer; font-weight: 500; }
+.magnetic-references ol { list-style: none; padding: 0; margin: 12px 0; }
+.magnetic-references li + li { margin-top: 14px; }
+.magnetic-references a { text-underline-offset: 3px; }
+.magnetic-references p { margin: 7px 0; }
+.magnetic-glossary dl { margin-top: 8px; }
+.magnetic-glossary dl > div { display: block; padding: 9px 0; }
+.magnetic-glossary dt { font-size: .8125rem; }
+.magnetic-glossary dd { text-align: left; font-size: .75rem; font-weight: normal; margin-top: 4px; }
+
+@media (max-width: 760px) {
+  .magnetism { margin-top: 25px; }
+  .magnetism .magnetic-evidence,
+  .magnetism .magnetic-behavior { font-size: .875rem; }
+  .magnetic-facts dt, .magnetic-facts dd { font-size: .875rem; }
+  .magnetic-references, .magnetic-glossary { font-size: .8125rem; }
+  .magnetic-transitions strong, .magnetic-transitions p { font-size: .8125rem; }
+  .transition-temperature { font-size: .9375rem; }
+  .transition-citations a { font-size: .75rem; }
+}
