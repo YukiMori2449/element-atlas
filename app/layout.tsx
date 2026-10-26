@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import './components/magnetism.css';
+import './components/selection.css';
 const title='ELEMENT ATLAS — 触れて学ぶ元素の周期表';
 const description='118の元素を、写真とやさしい説明で。電子配置・密度・融点・沸点を調べられるインタラクティブな周期表。';
 const productionHost=process.env.VERCEL_PROJECT_PRODUCTION_URL;
